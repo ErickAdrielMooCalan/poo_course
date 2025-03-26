@@ -33,7 +33,18 @@ Sus principales características son:
     °Abstracción
     °Encapsulamiento
     °Polimorfismo
-    °Herencia
+
+    °HERENCIA:
+        1. hay clases qque comparten gran parte de sus características
+        2. El mecanismo conocido como el nombre de herencia permite reutilizar clases: Se crea
+           una una nueva clase que extiende la funcionalidad de una clase existente sin tener
+           que reescribir el código asociado a esta última.
+        3. La nueva clase, a la que se denomina subclase, puede poseer atributos y métodos que
+           no existan en la clase original
+           
+        4. Los objtetos de la nueva clase heredan los atributos y los métodos de la clase
+           original, que se denomina "Superclase"
+
     °UML: Lenguaje Universal de Modelado
 
 
