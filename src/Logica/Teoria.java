@@ -32,7 +32,16 @@ Se basa en el concepto de agrupar código y datos juntos dentro de una misma uni
 Sus principales características son:
     °Abstracción
     °Encapsulamiento
-    °Polimorfismo
+    °POLIMORFISMO:
+        1. Poli = morfismo
+           Morfismo = muchas
+        2. Es la capacidad de una clase de tomar diferentes formas a través de la herencia,
+           permitiendo que un mismo método se comporte de distintas maneras según la clase que
+           lo implemente.
+        3. Vehiculo (Clase padre)
+                ---- Coche (Clase hija o derivada)
+                ---- Moto  (Clase hija o derivada)
+                ---- Autobus (Clase hija o derivada)
 
     °HERENCIA:
         1. hay clases qque comparten gran parte de sus características
